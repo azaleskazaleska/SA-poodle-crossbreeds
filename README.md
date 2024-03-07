@@ -1,4 +1,4 @@
-# Analiza wzrostu zainteresowania mieszańcami pudla na przestrzeni lat 2004-2023 na podstawie danycg z Twitter
+# Analiza wzrostu zainteresowania mieszańcami pudla na przestrzeni lat 2004-2023 na podstawie danych z Twitter
 
 ## Dlaczego wzrost zainteresowania jest problemem?
 Według FCI (Fédération Cynologique Internationale), czyli Międzynarodowego Związku Kynologicznego rasy te nie są uznawane, co skutkuje brakiem możliwości zare jestrowania dane j hodowli.
